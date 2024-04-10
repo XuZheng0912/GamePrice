@@ -1,2 +1,3 @@
-Game Price Compare Server
-SringBoot
+# Game Price Compare Server
+## 技术栈
+### SpringBoot
